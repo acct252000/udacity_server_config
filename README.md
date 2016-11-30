@@ -39,12 +39,12 @@ ssh -i ~/.ssh/udacity_key.rsa root@35.161.147.219 -p 2200 or
 2.  Updated all currently installed packages.
 3.  Configured local timezone to UTC.
 4.  Changed ssh port to 2200
-5.  Configured the uncomplicated firewall (ufw) to only allow ports 2200 (SSH) HTTP (80) and NTP (123)
-6.  Installed Apache, mod_wsgi, postgresql and other packages as above to implement earlier[item catalog project](https://github.com/acct252000/udacity_item_catalog).
+5.  Configured the uncomplicated firewall (ufw) to only allow ports 2200 (SSH) 80 (HTTP) and 123 (NTP)
+6.  Installed Apache, mod_wsgi, postgresql and other packages as above to implement earlier [item catalog project](https://github.com/acct252000/udacity_item_catalog).
 
 ### Resources Used
 
-Resources used were listed in links provided at [project instructions].(https://docs.google.com/document/d/1J0gpbuSlcFa2IQScrTIqI6o3dice-9T7v8EDNjJDfUI/pub?embedded=true).
+Resources used were listed in links provided at [project instructions](https://docs.google.com/document/d/1J0gpbuSlcFa2IQScrTIqI6o3dice-9T7v8EDNjJDfUI/pub?embedded=true).
 
 ### udacity_key.rsa - note different key for grader below
 
