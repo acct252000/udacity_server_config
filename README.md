@@ -1,8 +1,7 @@
 
 ### Access to server
 
-ssh -i ~/.ssh/linuxCourse grader@35.161.147.219 -p 2200 or
-ssh -i ~/.ssh/udacity_key.rsa root@35.161.147.219 -p 2200 or
+ssh -i ~/.ssh/linuxCourse grader@35.161.147.219 -p 2200
 
 
 (IP is 35.161.147.219, port 2200)
